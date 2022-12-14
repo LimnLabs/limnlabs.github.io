@@ -2,7 +2,7 @@
 title: Application Setup web version
 parent: Child of Test
 grand_parent: Test
-nav_order: 1
+nav_order: 2
 ---
 
 ## Application Setup V1.0

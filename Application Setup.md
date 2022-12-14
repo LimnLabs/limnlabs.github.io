@@ -2,7 +2,7 @@
 title: Application Setup
 parent: Contents
 has_children: false
-nav_order: 2
+nav_order: 1
 layout: post
 categories: training
 ---
