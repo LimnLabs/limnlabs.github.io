@@ -8,13 +8,8 @@ categories: training
 ---
 
 
-## Application Setup V1.0
-
-Download the document from [here](./assets/PETAL - Trading Partner Mgt V1.0.pdf)
+## Trading Partner Management
 
 <iframe width="100%" height="800" src="./assets/PETAL - Trading Partner Mgt V1.0.pdf">
 
 
-
-## Youtube video example
-{% include youtube.html id="JLMbpiywVxQ" %}

@@ -8,9 +8,8 @@ categories: training
 ---
 
 
-## Application Setup V1.0
+## User Management
 
-Download the document from [here](./assets/PETAL - User Management V1.0.pdf)
 
 <iframe width="100%" height="800" src="./assets/PETAL - User Management V1.0.pdf">
 
