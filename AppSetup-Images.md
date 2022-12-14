@@ -1,19 +1,19 @@
 ---
-title: Application Setup - Images version
-parent: Contents
-has_children: false
+title: Application Setup web version
+parent: Child of Test
+grand_parent: Test
 nav_order: 1
-layout: post
-categories: training
 ---
 
 ## Application Setup V1.0
 
 ### CONTENTS
 
+- [Application Setup V1.0](#application-setup-v10)
+  - [CONTENTS](#contents)
   - [Location](#location)
-  - [Application Configuration](#application-configuration)
-  - [Lookps](#lookups)
+  - [APPLICATION CONFIGURATION](#application-configuration)
+  - [LOOKUPS](#lookups)
 
 ____
 
