@@ -14,6 +14,3 @@ categories: training
 <iframe width="100%" height="800" src="./assets/PETAL - Application Setup V1.0.pdf">
 
 
-
-## Youtube video example
-{% include youtube.html id="JLMbpiywVxQ" %}
