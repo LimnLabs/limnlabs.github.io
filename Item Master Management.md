@@ -10,7 +10,7 @@ categories: training
 
 ## Item Master Management
 
-<iframe width="100%" height="800" src="./assets/PETAL - Item Master.pdf">
+<iframe width="100%" height="800" src="./assets/PETAL - Item Master of Vendor V1.0.pdf">
 
 
 
