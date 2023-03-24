@@ -13,7 +13,6 @@ categories: training
 {% include localVideo.html id="./assets/video/1. Application Configuration.mp4" %}
 
 ---
----
 
 ### Define Location
 
