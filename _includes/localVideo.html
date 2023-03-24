@@ -2,7 +2,12 @@
     <iframe width="800" height="480" 
     src="/{{ include.id }}" 
     frameborder="0" allowfullscreen></iframe>
+
+    <video width="320" height="240" controls>
+      <source src="/{{ include.id }}"  type="video/mp4">
+  </video>
 </div>
+
 <style>
 .embed-container {
   position: relative;
