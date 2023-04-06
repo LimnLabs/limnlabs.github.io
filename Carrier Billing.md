@@ -8,7 +8,7 @@ categories: training
 ---
 
 
-## Item Master Management
+## Carrier Billing
 
 
 <iframe width="100%" height="800" src="./assets/ph2/PETAL - Carrier Billing V 1.0.pdf">

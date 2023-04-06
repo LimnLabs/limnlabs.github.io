@@ -8,7 +8,7 @@ categories: training
 ---
 
 
-## Item Master Management
+## Vendor Billing
 
 
 <iframe width="100%" height="800" src="./assets/ph2/PETAL - Vendor Billing V 1.0.pdf">
