@@ -21,4 +21,4 @@ categories: training
 ---
 ---
 
-<iframe width="100%" height="800" src="./assets/PETAL - Application Setup V3.1  -  Read-Only.pdf">
+<iframe width="100%" height="800" src="./assets/PETAL - Application Setup V3.1.pdf">
